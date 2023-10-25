@@ -1,0 +1,31 @@
+{
+  "name": "poker4fun",
+  "version": "1.0.0",
+  "description": "This is for scrum grooming session",
+  "main": "./src/main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easy-pos/poker4fun.git"
+  },
+  "author": "Leo Lei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/easy-pos/poker4fun/issues"
+  },
+  "homepage": "https://github.com/easy-pos/poker4fun#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.21",
+    "@types/react-test-renderer": "^18.0.1",
+    "electron": "^26.2.1",
+    "typescript": "^5.2.2",
+    "react-test-renderer": "^18.2.0",
+    "@types/node": "20.6.2"
+  }
+}
